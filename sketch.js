@@ -25,7 +25,7 @@ function setup() {
 
 
 	//Create the Bodies Here.
-ground=new Ground(400,200,500,10);
+ground=new Ground(400,200,100,10);
 ground2=new Ground(400,650,800,10);
 	circle = new Circle2(300,200,50);
 	circle2 = new Circle2(300,20,50);
